@@ -2,7 +2,7 @@
 
 1. [Introduction to Concurrency](#introduction-to-concurrency)
 2. [Goroutines](#goroutines)
-3. [Channels](#channels)
+3. [Channels](/channels/index.md)
 4. [Select](#select)
 5. [Sync Package](#sync-package)
 6. [Best Practices](#best-practices)
@@ -24,9 +24,6 @@ Explain what goroutines are and how to create them.
 
 Provide a simple example demonstrating the use of goroutines.
 
-## Channels
-
-Explain what channels are and how they are used for communication between goroutines.
 
 ### Example
 
